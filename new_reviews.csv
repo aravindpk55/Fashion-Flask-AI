@@ -1,0 +1,13 @@
+Clothing ID,Title,Review Text,Rating,Recommended
+858,nice,really good,4.0,1
+1077,good,it's really nice,4.0,1
+1077,top,very nice,4.0,1
+1049,"nice, my goto",awesome,4.0,1
+1049,not upto my expectations,could have been better,2.0,1
+1049,not good,would not recommend this,2.0,1
+1049,very bad,not good,2.0,1
+1049,very worst,not at all good,1.0,1
+1077,good,nice,4.0,1
+1077,bad,worst,1.0,0
+1077,not really nice,not my type,3.0,1
+1077,very poor,could have been better,2.0,0
